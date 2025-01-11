@@ -1,0 +1,13 @@
+---
+title: "ggvis"
+image: jojo.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ggvisPro
+
+---
+
+这个人真的很懒，什么都没留下。
